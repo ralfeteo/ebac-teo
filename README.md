@@ -1,1 +1,1 @@
-# arquivo README.md alterado
+Este repositório contém os exercícios e projetos desenvolvidos durante o curso "Profissão: Analista de Dados v2" da EBAC - Escola Britânica de Artes Criativas e Tecnologia. O curso abrange os principais conceitos e técnicas necessários para se tornar um analista de dados, incluindo a manipulação e análise de dados, visualização de informações e construção de modelos preditivos.
